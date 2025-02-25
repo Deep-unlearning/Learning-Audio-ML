@@ -1,5 +1,9 @@
 # My Journey into Learning Audio ML
 
+## About
+
+This repository documents my journey into learning Audio ML, bridging the gap in my knowledge as I transition from a more general deep learning background. The exploration is not strictly linear and may branch into broader deep learning topics. It serves as a space for experimentation, implementation of research papers, writing blog posts, and creating tutorials on related subjects.
+
 ## What am I currently working on
 
 - ASR:
