@@ -19,3 +19,5 @@
 - Torchaudio tutorials: https://pytorch.org/audio/main/index.html
 
 - WAVLab Lectures on Speech Recognition and Understanding: https://www.youtube.com/@wavlab3016/videos
+
+- Training recipe for Speech LMs: https://github.com/slp-rl/slamkit
