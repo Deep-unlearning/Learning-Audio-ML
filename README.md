@@ -2,11 +2,17 @@
 
 ## What am I currently working on
 
-- [Fast-Conformer](https://github.com/Deep-unlearning/fast-conformer): Implementing Fast-Conformer paper (https://arxiv.org/pdf/2305.05084) and probably other variants and optimizations.
+- ASR:
 
-- Blog post about Audio LMs
+  - [Fast-Conformer](https://github.com/Deep-unlearning/fast-conformer): Implementing Fast-Conformer paper (https://arxiv.org/pdf/2305.05084) and probably other variants and optimizations.
+  
+  - Blog post about Audio LMs
+  
+  - Blog post about distil-whisper + tutorial
+ 
+- TTS:
 
-- Blog post about distil-whisper + tutorial
+  - Finetuning Llasa: [Blog Post](https://huggingface.co/blog/Steveeeeeeen/llasagna) [Repo](https://github.com/Deep-unlearning/LLaSA_training)
   
 ## Useful Ressources
 
