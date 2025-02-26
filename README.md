@@ -10,9 +10,9 @@ This repository documents my journey into learning Audio ML, bridging the gap in
 
   - [Fast-Conformer](https://github.com/Deep-unlearning/fast-conformer): Implementing Fast-Conformer paper (https://arxiv.org/pdf/2305.05084) and probably other variants and optimizations.
   
-  - Blog post about Audio LMs
+  - [WIP] Blog post about Audio LMs
   
-  - Blog post about distil-whisper + tutorial
+  - [WIP] Blog post about distil-whisper + tutorial
  
 - TTS:
 
