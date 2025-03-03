@@ -27,3 +27,5 @@ This repository documents my journey into learning Audio ML, bridging the gap in
 - WAVLab Lectures on Speech Recognition and Understanding: https://www.youtube.com/@wavlab3016/videos
 
 - Training recipe for Speech LMs: https://github.com/slp-rl/slamkit
+
+- Conversational AI Reading Group: https://poonehmousavi.github.io/rg
