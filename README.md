@@ -21,6 +21,10 @@ This repository documents my journey into learning Audio ML, bridging the gap in
   - [WIP] Blog Post of Speech LLMs: [SpeechLLMs Playbook](https://huggingface.co/spaces/Steveeeeeeen/SpeechLLM-Playbook)
 
   - Finetuning Llasa: [Blog Post](https://huggingface.co/blog/Steveeeeeeen/llasagna) [Repo](https://github.com/Deep-unlearning/LLaSA_training)
+ 
+- Audio Codecs:
+
+  - Transformers integration of XCodec2: [Draft PR](https://github.com/huggingface/transformers/pull/37868)
   
 ## Useful Ressources
 
