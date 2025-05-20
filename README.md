@@ -22,6 +22,8 @@ This repository documents my journey into learning Audio ML, bridging the gap in
   
 ## Useful Ressources
 
+- List of [Awesome AudioLM Datasets](https://github.com/yuekaizhang/Awesome-AudioLM-Datasets)
+
 - Torchaudio tutorials: https://pytorch.org/audio/main/index.html
 
 - WAVLab Lectures on Speech Recognition and Understanding: https://www.youtube.com/@wavlab3016/videos
