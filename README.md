@@ -24,7 +24,7 @@ This repository documents my journey into learning Audio ML, bridging the gap in
  
 - Audio Codecs:
 
-  - Transformers integration of XCodec2: [Draft PR](https://github.com/huggingface/transformers/pull/37868)
+  - Transformers integration of XCodec2: [PR](https://github.com/huggingface/transformers/pull/37868)
   
 ## Useful Ressources
 
