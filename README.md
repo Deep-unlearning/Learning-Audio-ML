@@ -10,6 +10,8 @@ This repository documents my journey into learning Audio ML, bridging the gap in
 
   - [Fast-Conformer](https://github.com/Deep-unlearning/fast-conformer): Implementing Fast-Conformer paper (https://arxiv.org/pdf/2305.05084) and probably other variants and optimizations.
  
+  - Finetuning Script for [Voxtral model](https://github.com/Deep-unlearning/Finetune-Voxtral-ASR)
+ 
   - [WIP] Study [Slam](https://github.com/slp-rl/slamkit)
   
   - [WIP] Blog post about Audio LMs
