@@ -24,6 +24,8 @@ This repository documents my journey into learning Audio ML, bridging the gap in
 
   - Finetuning Llasa: [Blog Post](https://huggingface.co/blog/Steveeeeeeen/llasagna) [Repo](https://github.com/Deep-unlearning/LLaSA_training)
  
+  - Finetuning Dia-TTS: [Repo](https://github.com/Deep-unlearning/Finetune-Dia-TTS)
+ 
 - Audio Codecs:
 
   - Transformers integration of XCodec2: [PR](https://github.com/huggingface/transformers/pull/37868)
